@@ -13,6 +13,7 @@ The software developing environment requires Python 3 and the developing tool re
 
 1. Run the python file directly from the command line
 (Path: \venv\bin\)
+
 Example:
 ```
 python main.py Mo-Fr 03:09-17:28,2021-09-07T17:31:00Z
