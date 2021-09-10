@@ -4,13 +4,17 @@ This small project is to parse the given opening time and datetimes.
 
 ## Install
 
-```
-alalala
-```
+The software developing environment requires Python 3 and the developing tool recommends to use Pycharm
 
-## Usage
+1. Download Pycharm (url: http://www.jetbrains.com/pycharm/download/#section=windows)
+2. Download Python3 (url: https://www.python.org)
 
+## Demo
+
+1. Run the python file directly from the command line
+(Path: \venv\bin\)
 ```
+python main.py Mo-Fr 03:09-17:28,2021-09-07T17:31:00Z
 ```
 
 ## Contributing
