@@ -1,7 +1,9 @@
 import unittest
+import sys
+import os
+sys.path.append(os.path.split(sys.path[0])[0])
 from bin.parsing import check_opening_time
 from bin.main import main
-import sys
 import io
 
 def stub_stdout(testcase_inst):
