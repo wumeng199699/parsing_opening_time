@@ -16,7 +16,7 @@ The software developing environment requires Python 3 and the developing tool re
 
 Example:
 ```
-python main.py Mo-Fr 03:09-17:28,2021-09-07T17:31:00Z
+python main.py 03:09-17:28,2021-09-07T17:31:00Z
 ```
 
 2. Run the unit test file(Path: \venv\bin\)
