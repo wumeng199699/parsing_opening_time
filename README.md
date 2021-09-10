@@ -1,10 +1,11 @@
 # Parsing_opening_time
 
-This is an example file with default selections.
+This small project is to parse the given opening time and datetimes.
 
 ## Install
 
 ```
+alalala
 ```
 
 ## Usage
