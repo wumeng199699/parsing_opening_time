@@ -9,7 +9,7 @@ The software developing environment requires Python 3 and the developing tool re
 1. Download Pycharm (url: http://www.jetbrains.com/pycharm/download/#section=windows)
 2. Download Python3 (url: https://www.python.org)
 
-## Demo
+## Run
 
 1. Run the python file directly from the command line
 (Path: \venv\bin\)
@@ -17,10 +17,7 @@ The software developing environment requires Python 3 and the developing tool re
 python main.py Mo-Fr 03:09-17:28,2021-09-07T17:31:00Z
 ```
 
-## Contributing
-
-PRs accepted.
-
-## License
-
-MIT © Richard McRichface
+2. Run the unit test file(Path: \venv\bin\)
+```
+python tests.py
+```
